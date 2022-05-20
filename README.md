@@ -1,2 +1,2 @@
-# projects
-nixyr project
+# Project
+Nixyr HUB
